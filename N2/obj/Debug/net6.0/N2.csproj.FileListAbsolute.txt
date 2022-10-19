@@ -1,0 +1,15 @@
+C:\Users\podop\Desktop\homework_1\n2\bin\Debug\net6.0\N2.exe
+C:\Users\podop\Desktop\homework_1\n2\bin\Debug\net6.0\N2.deps.json
+C:\Users\podop\Desktop\homework_1\n2\bin\Debug\net6.0\N2.runtimeconfig.json
+C:\Users\podop\Desktop\homework_1\n2\bin\Debug\net6.0\N2.dll
+C:\Users\podop\Desktop\homework_1\n2\bin\Debug\net6.0\N2.pdb
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.csproj.AssemblyReference.cache
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.AssemblyInfoInputs.cache
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.AssemblyInfo.cs
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.csproj.CoreCompileInputs.cache
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.dll
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\refint\N2.dll
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.pdb
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\N2.genruntimeconfig.cache
+C:\Users\podop\Desktop\homework_1\n2\obj\Debug\net6.0\ref\N2.dll
