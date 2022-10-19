@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\podop\\Desktop\\Homework_1\\N4\\N4.csproj": {}
+    "C:\\Users\\podop\\Desktop\\homework_1\\n4\\N4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\podop\\Desktop\\Homework_1\\N4\\N4.csproj": {
+    "C:\\Users\\podop\\Desktop\\homework_1\\n4\\N4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\podop\\Desktop\\Homework_1\\N4\\N4.csproj",
+        "projectUniqueName": "C:\\Users\\podop\\Desktop\\homework_1\\n4\\N4.csproj",
         "projectName": "N4",
-        "projectPath": "C:\\Users\\podop\\Desktop\\Homework_1\\N4\\N4.csproj",
+        "projectPath": "C:\\Users\\podop\\Desktop\\homework_1\\n4\\N4.csproj",
         "packagesPath": "C:\\Users\\podop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\podop\\Desktop\\Homework_1\\N4\\obj\\",
+        "outputPath": "C:\\Users\\podop\\Desktop\\homework_1\\n4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\podop\\AppData\\Roaming\\NuGet\\NuGet.Config"
